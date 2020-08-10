@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 dataset/input/original/.DS_Store
+.Rhistory
+.gitattributes
